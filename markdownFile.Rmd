@@ -1,0 +1,6 @@
+---
+output:
+  md_document:
+    variant: markdown
+---
+## This is a markdown file
